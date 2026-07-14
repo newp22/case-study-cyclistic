@@ -5,7 +5,7 @@ The objective was to analyze how casual riders and annual members use Cyclistic 
 
 ---
 ## Data Source
-The analysis uses the 12 monthly [Divvy trip date files](https://divvy-tripdata.s3.amazonaws.com/index.html) from January through December 2025. The public data is anonymized and does not include rider demographics or customer-level identifiers.
+The analysis uses the 12 monthly [Divvy trip data files](https://divvy-tripdata.s3.amazonaws.com/index.html) from January through December 2025. The public data is anonymized and does not include rider demographics or customer-level identifiers.
 
 ---
 ## Tools Used
