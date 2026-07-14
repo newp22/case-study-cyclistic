@@ -31,6 +31,6 @@ The analysis uses the 12 monthly [Divvy trip date files](https://divvy-tripdata.
 * Full report (.pdf)
 * Executive presentation (.pdf)
 * Data cleaning changelog (.pdf)
-* Tableau visualizations ([view interactive Tableau dashboard here](https://public.tableau.com/app/profile/clinton.vu/viz/case-study-cyclistic-viz/member-vs-casual-dashbaord), or /viz)
+* Tableau visualizations ([view interactive Tableau dashboard here](https://public.tableau.com/app/profile/clinton.vu/viz/case-study-cyclistic-viz/member-vs-casual-dashbaord), viz/)
 * SQL code (.sql)
 
