@@ -1,4 +1,4 @@
-# Cyclistic Rider Behavior Analysis
+# Cyclistic Case Study
 
 ## Project Overview
 The objective was to analyze how casual riders and annual members use Cyclistic bikes differently and develop marketing recommendations that could help convert casual riders into annual members.
